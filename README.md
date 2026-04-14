@@ -7,4 +7,4 @@ A simple calculator built using HTML, CSS, and JavaScript in a single file, demo
 https://calculator-hkaur.vercel.app
 
 ## 📷 Screenshot
-![Calculator](./calculator.png)
+![Calculator](/calculator.png)
